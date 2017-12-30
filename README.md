@@ -1,2 +1,2 @@
 # DEFINE_MODULE
-es6模块化编程
+组件化开发编程
